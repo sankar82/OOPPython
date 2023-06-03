@@ -21,9 +21,11 @@ By going through this curriculum, you will:
 This curriculum is perfect for anyone looking to deepen their understanding of Python and its OOP principles. It is ideal for beginners who have a basic understanding of Python and want to take their skills to the next level, as well as for experienced programmers who want to solidify their understanding of OOP in Python.
 
 **How to Use This Repository**
-You can start by reading through the concepts in order, as each one builds upon the concepts of the previous one. Don't rush through the content; take your time to understand each concept thoroughly, and don't hesitate to revisit any topic that feels challenging.
+There are two notebooks in this repository. You can start with either one. In the notebook **"OOPS_Concepts_Learning.ipynb"** I gathered notes from multiple sources and also used ChatGPT primarily to structure this curriculum. In the second notebook, **"OOPS_Real_Python.ipynb"** I compiled notes from Real Python, and I have credited the original source in the notebook, in case you would like to take a look at it. 
 
-We hope this course aids you in your journey as a Python programmer, and we can't wait to see what you build with your newfound skills. Happy learning!
+In either notebook, you could start by reading through the concepts in order, as each one builds upon the concepts of the previous one. Please don't rush through the content; do take your time to understand each concept thoroughly, and don't hesitate to revisit any topic that feels challenging.
+
+I hope this course aids you in your journey as a Python programmer, and we can't wait to see what you build with your newfound skills. Happy learning!
 
 Please feel free to give your feedback on how this can be improved or if you catch any errors! Thanks for reading. 
 
